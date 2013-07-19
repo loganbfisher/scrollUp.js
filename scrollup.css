@@ -1,0 +1,14 @@
+@charset "UTF-8";
+/* CSS Document */
+
+.scroll-tab {
+	background: #f2f2f2;
+	padding: 10px;
+	font-weight: bold;
+	position: fixed;
+	bottom: 0;
+	right: 50px;
+	width: 50px;
+	display: none;
+	cursor: pointer;
+}
